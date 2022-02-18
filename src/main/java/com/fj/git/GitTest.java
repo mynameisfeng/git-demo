@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("current branch hot-fix");
         System.out.println("master 3333");
         System.out.println( "hot-fix commit 222");
+        System.out.println("master 444");
     }
 }
