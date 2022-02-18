@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println( "hot-fix commit 222");
         System.out.println("master 444");
         System.out.println( "hot-fix commit 333");
+        System.out.println("关联github后提交");
     }
 }
